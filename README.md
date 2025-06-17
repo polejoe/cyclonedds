@@ -9,11 +9,6 @@
 
 
 
-
-
-
-
-
 # This branch supports CycloneDDS over FreeRTOS-Plus-TCP stack on FreeRTOS.  
 CycloneDDS looks have support on FreeRTOS+LWIP Stack,  
 however lacking FreeRTOS-Plus-TCP Stack support  
